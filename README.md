@@ -31,3 +31,9 @@ Graduando em Ciências e Tecnologia na UFMA, formado em Técnico em Informática
 
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
 
+<div  align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrxhenrique&layout=compact&langs_count=7&theme=react)
+
+</div>
+
