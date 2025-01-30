@@ -3,7 +3,7 @@
 
 
  <h2>Sobre mim</h2> 
-Graduando em Ciências e Tecnologia na UFMA, formado em Técnico em Informática pelo IFMA, apaixonado por jogos e desbravando o mundo da tecnologia.
+Graduando em Ciências e Tecnologia na Universidade Federal do Maranhão, formado em Técnico em Informática pelo Instituto Federal do Maranhão, apaixonado por jogos e desbravando o mundo da tecnologia.
 
 
 <h2>Redes Sociais</h2>
