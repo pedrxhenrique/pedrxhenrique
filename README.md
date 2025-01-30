@@ -5,6 +5,7 @@
  <h2>Sobre mim</h2> 
 Graduando em Ciências e Tecnologia na UFMA, formado em Técnico em Informática pelo IFMA, apaixonado por jogos e desbravando o mundo da tecnologia.
 
+
 <h2>Redes Sociais</h2>
 
 <div style="display: flex">
@@ -25,7 +26,7 @@ Graduando em Ciências e Tecnologia na UFMA, formado em Técnico em Informática
 
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
 
-![JAVA](https://img.shields.io/badge/JAVA-000?style=for-the-badge&logo=JAVA)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![MYSQL](https://img.shields.io/badge/MYSQL-000?style=for-the-badge&logo=mysql)
 
