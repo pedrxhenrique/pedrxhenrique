@@ -22,7 +22,7 @@ Graduando em Ciências e Tecnologia na Universidade Federal do Maranhão, formad
 
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp&logoColor=purple)
 
-![.NET](https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=dotnet&logoColor=blue)
+![SPRINGBOOT](https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=spring&logoColor=blue)
 
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
