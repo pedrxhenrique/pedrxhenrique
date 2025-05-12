@@ -24,7 +24,7 @@ Graduando em Ciências e Tecnologia na Universidade Federal do Maranhão, formad
 
 ![SPRING BOOT](https://img.shields.io/badge/SPRINGBOOT-000?style=for-the-badge&logo=springboot&logoColor=green)
 
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![MYSQL](https://img.shields.io/badge/MYSQL-000?style=for-the-badge&logo=mysql)
 
