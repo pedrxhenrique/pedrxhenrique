@@ -8,4 +8,4 @@ Sou apaixonado por software, boas práticas de código e tudo o que envolve enge
 Fora da tecnologia, curto acompanhar novidades em ciência, jogar videogame e explorar conteúdo tech.
 
 **Vamos nos conectar!**  
-[LinkedIn](https://www.linkedin.com/in/pedrxhenriquej/)
+[LinkedIn](https://www.linkedin.com/in/pedrohenriquej/)
