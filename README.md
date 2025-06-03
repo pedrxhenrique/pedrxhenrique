@@ -1,11 +1,35 @@
-## Olá!  
-Sou Pedro Henrique, desenvolvedor back-end e entusiasta de tecnologia, atualmente morando em São Luís, Maranhão.
+# Hi, I'm Pedro Henrique 👋
 
-Estou me graduando em Ciências e Tecnologia pela UFMA, com foco em Engenharia da Computação no segundo ciclo, e sou formado como Técnico em Informática pelo IFMA. Tenho focado meus estudos em desenvolvimento backend com Java e Spring Boot, buscando construir sistemas eficientes e bem estruturados.
+I'm a backend developer based in São Luís, Maranhão, Brazil.  
+Currently pursuing a degree in Science and Technology at the Federal University of Maranhão (UFMA), focusing on Computer Engineering. I also hold a Computer Technician diploma from the Federal Institute of Maranhão (IFMA).
 
-Sou apaixonado por software, boas práticas de código e tudo o que envolve engenharia de sistemas. Já desenvolvi projetos acadêmicos e pessoais usando Java, C#, MySQL.
+I specialize in backend development using **Java** and **Spring Boot**, building efficient, scalable, and maintainable systems. My projects include academic and personal work involving robust architectures, relational databases, and clean code.
 
-Fora da tecnologia, curto acompanhar novidades em ciência, jogar videogame e explorar conteúdo tech.
+---
 
-**Vamos nos conectar!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/pedrohjacinto/)
+## 🛠️ Skills
+
+- **Languages:** Java
+- **Frameworks:** Spring Boot  
+- **Databases:** PostgreSQL, MySQL  
+- **Tools & Platforms:** Docker, Postman, Git  
+- **Concepts:** REST APIs, Microservices, Clean Code, Software Engineering Best Practices
+
+---
+
+## 📂 Projects
+
+### Personal Finance Manager  
+A backend application for simple personal finance management built with Java, Spring Boot, PostgreSQL, and Docker. Features user, category, and transaction management with PDF reports generation.  
+[Repository Link](https://github.com/pedrxhenrique/apifinancas) 
+
+---
+
+## 📫 Contact
+
+Feel free to reach out!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/pedrohjacinto/)  
+
+---
+
+Thanks for visiting my profile! 🚀
