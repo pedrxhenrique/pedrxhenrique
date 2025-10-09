@@ -2,7 +2,7 @@
 
 Backend developer based in São Luís, Maranhão, Brazil.  
 Pursuing a degree in Science and Technology at UFMA, focusing on Computer Engineering.  
-Experienced with C#, .Net, PostgreSQL, MySQL, Docker, and REST APIs.
+Experienced with Java, SpringBoot, PostgreSQL, MySQL, Docker.
 
 ---
 
