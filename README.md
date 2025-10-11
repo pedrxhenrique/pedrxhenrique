@@ -8,4 +8,5 @@ Experienced with Java, SpringBoot, PostgreSQL, MySQL, Docker.
 
 ## 📫 Let's connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/pedrohjacinto/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/pedrohjacinto/)![Java](https://img.shields.io/badge/Java-21-red)
+![Status](https://img.shields.io/badge/Em%20Atualização-Ativo-green)
